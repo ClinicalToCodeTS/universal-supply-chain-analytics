@@ -117,11 +117,13 @@ To transform global logistics operations across Pharma Cold-Chain, FMCG Fresh, a
 ## 📄 Complete Presentation PDF & SQL Source Code
 
 👉 **View & Download Complete Executive PDF Presentation (11 Pages):**  
-📄 **[Click Here to Open / Download Complete Presentation PDF](https://github.com/ClinicalToCodeTS/universal-supply-chain-analytics/blob/main/universal_supply_chain_project_report.pdf)**
+📄 **[Click Here to Open / Download Complete Presentation PDF](https://github.com/ClinicalToCodeTS/universal-supply-chain-analytics/blob/main/AUGUST%202020%20EXECUTIVPERFORMANCE%20REPORT.pdf)**
 
 
 ---
 
 ## 🤝 Author & Connect
-
+- **Developer:** Triveni Sharma
+- **LinkedIn:** [Triveni Sharma](https://www.linkedin.com/in/triveni-sharma-dataanalyst/)
+- **GitHub:** [Clinical2CodeTS](https://github.com/Clinical2CodeTS)
 
