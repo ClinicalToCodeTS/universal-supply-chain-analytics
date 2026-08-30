@@ -115,9 +115,9 @@ To transform global logistics operations across Pharma Cold-Chain, FMCG Fresh, a
 ---
 
 ## 📄 Complete Presentation PDF
-
+  
 👉 **View & Download Complete Executive PDF Presentation (11 Pages):**  
-📄 **[Click Here to Open / Download Complete Presentation PDF](https://drive.google.com/file/d/1g1lrwD-0bGm5JwI0rYsQTf779LwVRss4/view?usp=drive_link)**
+📄 **[Click Here to Open / Download Complete Presentation PDF (Google Drive)](https://drive.google.com/file/d/1g1lrwD-0bGm5JwI0rYsQTf779LwVRss4/view?usp=sharing)**
 
 ---
 
