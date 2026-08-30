@@ -117,7 +117,7 @@ To transform global logistics operations across Pharma Cold-Chain, FMCG Fresh, a
 ## 📄 Complete Presentation PDF
 
 👉 **View & Download Complete Executive PDF Presentation (11 Pages):**  
-https://drive.google.com/file/d/1g1lrwD-0bGm5JwI0rYsQTf779LwVRss4/view?usp=drive_link
+📄 **[Click Here to Open / Download Complete Presentation PDF](https://drive.google.com/file/d/1g1lrwD-0bGm5JwI0rYsQTf779LwVRss4/view?usp=drive_link)**
 
 ---
 
@@ -125,4 +125,12 @@ https://drive.google.com/file/d/1g1lrwD-0bGm5JwI0rYsQTf779LwVRss4/view?usp=drive
 - **Developer:** Triveni Sharma
 - **LinkedIn:** [Triveni Sharma](https://www.linkedin.com/in/triveni-sharma-dataanalyst/)
 - **GitHub:** [Clinical2CodeTS](https://github.com/Clinical2CodeTS)
+
+
+
+---
+
+> ⚠️ **Disclaimer & Data Privacy Note:** All database records, vendor details, customer codes, and financial inventory figures in this project are simulated/synthetic enterprise datasets created strictly for data analytics demonstration and portfolio purposes. No proprietary or confidential real-world company data was utilized.
+
+
 
