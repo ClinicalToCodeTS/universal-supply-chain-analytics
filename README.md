@@ -117,8 +117,8 @@ To transform global logistics operations across Pharma Cold-Chain, FMCG Fresh, a
 ## 📄 Complete Presentation PDF
 
 👉 **View & Download Complete Executive PDF Presentation (11 Pages):**  
-**[Click Here to Open / Download Complete Executive PDF Presentation]**
-(https://github.com/ClinicalToCodeTS/universal-supply-chain-analytics/blob/main/AUGUST%202026%20EXECUTIVE%20PERFORMANCE%20REPORT.pdf)
+[Download PDF Report](https://github.com/ClinicalToCodeTS/universal-supply-chain-analytics/blob/main/AUGUST%202026%20EXECUTIVE%20PERFORMANCE%20REPORT.pdf)
+
 
 
 
