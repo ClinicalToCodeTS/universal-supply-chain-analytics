@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 1. Short Description & Purpose
+## 📌 1. Description & Purpose
 
 The **Universal Supply Chain & Forecast Analytics Project** is an enterprise-grade data audit executed on a 10-table relational data warehouse (`universal_supply_chain_db`). The primary objective is to evaluate multi-category logistics performance across four global geographical regions: **APAC (India), EU (Switzerland), NA (USA), and LATAM (Brazil)**. 
 
